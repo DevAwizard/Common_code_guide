@@ -41,4 +41,6 @@
 
 > ⚠️ **Tip**: This order reflects a personal recommendation on tackling the projects.
 >
+> 💡 **Remember**: It’s advisable not to rush into taking the exam immediately after completing all the projects unless you're confident in your ability to pass it with solid concepts and fewer attempts.
+> 
 > 💬 **Feedback**: If there are changes or improvements needed, consider [creating an issue](https://github.com/pasqualerossi/42-School-Guide/issues) or submitting a [pull request](https://github.com/pasqualerossi/42-School-Guide/pulls).
