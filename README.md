@@ -12,7 +12,6 @@
 | 1️ | [Libft](https://github.com/DevAwizard/Libft_by_anwu-yan) | C | ~30 mins | Moulinette + Peer Review | ✅ Yes | 3 | ❌ No |
 | 2️ | [Printf](https://github.com/DevAwizard/Printf_by_anwu-yan) | C | ~30 mins | Moulinette + Peer Review | ✅ Yes | 3 | ❌ No |
 | 3️ | [Born2BeRoot](https://github.com/DevAwizard) | VirtualBox | ~1 hour | Peer Review | ❌ N/A | 3 | ❌ No |
-| 3️ | [Born2BeRoot](https://github.com/DevAwizard) | VirtualBox | ~1 hour | Peer Review | ❌ N/A | 3 | ❌ No |
 | 4️ | [Get_Next_Line](https://github.com/DevAwizard/GetNextLine_by_anwuyan) | C | ~30 mins | Moulinette + Peer Review | ✅ Yes | 3 | ❌ No |
 | 5️ | [So_Long](https://github.com/DevAwizard/So_Long_By_anwu-yan) | C | ~30 mins | Peer Review | ✅ Yes | 3 | ❌ No |
 | 6️ | [Push_Swap](https://github.com/DevAwizard/PushSwap_by_an-wuyan) | C | ~30 mins | Peer Review | ✅ Yes | 3 | ❌ No |
