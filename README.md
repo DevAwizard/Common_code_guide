@@ -1,4 +1,4 @@
-<h2 align="center">🚀 42 Common Core Projects Overview</h2>
+<h2 align="center">  📚 42 Common Core Projects Overview</h2>
 
 <table>
 <tr>
@@ -46,6 +46,7 @@
 > 
 > 💬 **Feedback**: If there are changes or improvements needed, consider [creating an issue](https://github.com/pasqualerossi/42-School-Guide/issues) or submitting a [pull request](https://github.com/pasqualerossi/42-School-Guide/pulls).
 >
+> [!NOTE]
 > *Evaluation time is an approximation and may vary depending on the evaluator.
 
 
