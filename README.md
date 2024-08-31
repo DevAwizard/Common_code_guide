@@ -22,7 +22,7 @@
 | 11 | C++ Modules 1-5 ❌ | C++ | ~30 mins/module | Peer Review | ❌ N/A | 2/module | ❌ No |
 | 1️2️ | C++ Modules 6-9 ❌ | C++ | ~30 mins/module | Peer Review | ❌ N/A | 2/module | ❌ No |
 | 1️3️ | Cub3D ❌| C | ~30 mins | Peer Review | ✅ Yes | 3 | 👥 Yes (2) |
-| 1️4️ | WebServer ❌ | C++ | ~1 hour | Peer Review | ❌ N/A | 3 | 👥 Yes |
+| 1️4️ | WebServer ❌ | C++ | ~1 hour | Peer Review | ❌ N/A | 3 | 👥 Yes (2-3)|
 | 1️5️ | Inception ❌| Docker | ~30 mins | Peer Review | ❌ N/A | 3 | ❌ No |
 | 1️6️ | Ft_Transcendence ❌ | Web Development | ~1 hour | Peer Review | ❌ N/A | 3 | 👥 Yes (3-5) |
 
@@ -42,7 +42,7 @@
 >
 > 💡 **Remember**: It’s advisable not to rush into taking the exam immediately after completing all the projects unless you're confident in your ability to pass it with solid concepts and fewer attempts.
 > 
-> **Note:** Evaluation time is an approximation and may vary depending on the evaluator.
+> 📝**Note:** Evaluation time is an approximation and may vary depending on the evaluator.
 >
 > 💬 **Feedback**: If there are changes or improvements needed, consider [creating an issue](https://github.com/pasqualerossi/42-School-Guide/issues) or submitting a [pull request](https://github.com/pasqualerossi/42-School-Guide/pulls).
 
