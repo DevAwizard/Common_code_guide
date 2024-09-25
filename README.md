@@ -16,7 +16,7 @@
 | 5️ | [So_Long](https://github.com/DevAwizard/So_Long_By_anwu-yan) | C | ~45 mins | Peer Review | ✅ Yes | 3 | ❌ No |
 | 6️ | [Push_Swap](https://github.com/DevAwizard/PushSwap_by_an-wuyan) | C | ~45 mins | Peer Review | ✅ Yes | 3 | ❌ No |
 | 7️ | [Pipex](https://github.com/DevAwizard/pipex_by_anwu-yan) | C | ~30 mins | Peer Review | ✅ Yes | 3 | ❌ No |
-| 8️ | (Minishell)[https://github.com/DevAwizard/Minishell_by_anwu-yan_aurgonza] 🕑 | C | ~30 mins | Peer Review | ✅ Yes | 3 | 👥 Yes (2) |
+| 8️ | (Minishell)(https://github.com/DevAwizard/Minishell_by_anwu-yan_aurgonza) 🕑 | C | ~30 mins | Peer Review | ✅ Yes | 3 | 👥 Yes (2) |
 | 9️ | Philosophers ❌ | C | ~30 mins | Peer Review | ✅ Yes | 3 | ❌ No |
 | 10 | NetPractice ❌ | Networking | ~15 mins | Peer Review | ❌ N/A | 3 | ❌ No |
 | 11 | C++ Modules 1-5 ❌ | C++ | ~30 mins/module | Peer Review | ❌ N/A | 2/module | ❌ No |
